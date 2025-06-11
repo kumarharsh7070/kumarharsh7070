@@ -40,7 +40,8 @@
 
 <p>
   <a href="mailto:hk995814@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/kumar-harsh-4350ba254/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/kumar-harsh-4350ba254/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
+
 </p>
 
 ---
