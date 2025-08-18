@@ -6,13 +6,13 @@
 🔧 I'm passionate about building complete digital experiences — from sleek user interfaces to powerful backend systems.
 
 💻 Tech Stack:
-- 💙 Flutter & Dart for beautiful cross-platform apps
-- 🌐 HTML, CSS, JavaScript for frontend magic
-- ⚛️ React for dynamic UI
-- 🔥 Firebase for backend and real-time database
-- 🛠️ Full Stack Development (Frontend + Backend)
-
----
+-💙 Flutter & Dart for beautiful cross-platform apps  
+- 🌐 HTML, CSS, JavaScript for frontend magic  
+- ⚛️ React for dynamic UI  
+- 🟢 Node.js & Express.js for scalable backend development  
+- 🍃 MongoDB for efficient database management  
+- 🔥 Firebase for backend and real-time database  
+- 🛠️ Full Stack Development (Frontend + Backend) 
 
 ### 🚀 Languages and Tools I Use:
 
@@ -24,6 +24,10 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+
+
 </p>
 
 ---
